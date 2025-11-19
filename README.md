@@ -159,4 +159,4 @@ This is not an official [Hugging Face](https://huggingface.co/) product. This is
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Soulter/hugging-chat-api&type=Date)](https://star-history.com/#Soulter/hugging-chat-api&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=macaslinbeijay/chat-api-hugging&type=Date)](https://star-history.com/#macaslinbeijay/chat-api-hugging&Date)
